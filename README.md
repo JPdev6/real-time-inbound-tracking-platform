@@ -198,4 +198,4 @@ A complete vertical pipeline from **raw data → ML → dashboard**.
 
 ---
 
-Made with ❤️ for your project presentation  
+Licenced bei MIT.All rights reserved.
