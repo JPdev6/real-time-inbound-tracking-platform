@@ -116,11 +116,6 @@ We redesigned the GUI completely with a **professional dashboard layout**.
 
 We replaced circles with **true logistics paths**:
 
-- Drawn using **ArcLayer**
-- Route colored by delay:
-  - Green = On time
-  - Orange = Moderate delay
-  - Red = Severe delay
 - Hover shows:
   - Supplier  
   - Truck ID  
