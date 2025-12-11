@@ -1,6 +1,6 @@
 
 # Real-Time Inbound Tracking Platform 🚚⚡  
-A fully interactive, real-time logistics intelligence platform integrating **Databricks Lakehouse**, **FastAPI**, **Streamlit**, and **Machine Learning** — all automated into a one‑click workflow.
+A fully interactive, real-time logistics intelligence platform integrating **Databricks Lakehouse**, **FastAPI**, **Streamlit**, and **Machine Learning** — all automated .
 
 ---
 
