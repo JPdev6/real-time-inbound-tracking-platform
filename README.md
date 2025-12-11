@@ -3,6 +3,7 @@
 A fully interactive, real-time logistics intelligence platform integrating **Databricks Lakehouse**, **FastAPI**, **Streamlit**, and **Machine Learning** — all automated .
 
 ---
+![Pipeline Overview](static/pipeline_overview.png)
 
 ## 🎯 Project Purpose  
 This platform demonstrates how a modern logistics company can track inbound shipments live, compute KPIs, predict delays using ML models, and visualize everything in real time with enterprise-grade dashboards.
