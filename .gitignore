@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# --- Virtual environment ---
+.venv/
+venv/
+env/
+
+# --- Editor / OS files ---
+.idea/
+.vscode/
+.DS_Store
+
+# --- Cache & logs ---
+*.log
+logs/
+.cache/
+# Big ML artifacts
+models/
+*.joblib
+*.pkl
+*.h5
+# --- Models ---
+models/*.joblib
+models/*.pkl
+model/
+# --- Data (local CSVs exported from Databricks) ---
+*.csv
+!README.md        # keep README even if CSV folder exists
+
+# --- Streamlit cache ---
+.streamlit/
+
+# --- Secrets & environment ---
+.env
+.env.*
