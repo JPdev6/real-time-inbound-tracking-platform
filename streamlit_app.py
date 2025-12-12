@@ -5,14 +5,12 @@ import random
 import time
 from datetime import datetime, timedelta
 from typing import Any, Dict, List
-# Make sure pydeck does NOT expect a Mapbox token
 import pydeck as pdk
-pdk.settings.mapbox_api_key = ""  # force fallback
+#pdk.settings.mapbox_api_key = ""  # force fallback
 import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import pydeck as pdk
 import requests
 import streamlit as st
 
